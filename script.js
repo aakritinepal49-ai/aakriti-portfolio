@@ -1,0 +1,1 @@
+console.log("Welcome to Aakriti's Portfolio!");
